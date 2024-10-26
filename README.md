@@ -1,4 +1,4 @@
-# Signed Engineering preloaders for Xiaomi MT6897 devices
+# Signed Engineering preloader for Xiaomi MT6897 devices
 
 | Device                               | File                          | sha1sum                                    |
 | ------------------------------------ | ----------------------------- | ------------------------------------------ |
